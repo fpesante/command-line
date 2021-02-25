@@ -1,0 +1,11 @@
+c:\Users\francisco.pesante where /r c:\users\francisco.pesante falguerolles.pdf
+
+ej. where /r c:\users\francisco.pesante firma.jpg
+
+ref: https://stackoverflow.com/questions/8066679/how-to-do-a-simple-file-search-in-cmd
+
+########################
+
+compare documents
+fc C:\Users\Martin\Desktop\FCsample.txt C:\Users\Martin\Desktop\FCexercise.txt
+https://www.howtogeek.com/206123/how-to-use-fc-file-compare-from-the-windows-command-prompt/
